@@ -298,4 +298,9 @@ footer {
   .btn {
     margin-bottom: 0;
   }
+  #testimonials p {
+    font-size: 70%;
+  }
+  .profile {
+    margin-bottom: 15px;
 }
